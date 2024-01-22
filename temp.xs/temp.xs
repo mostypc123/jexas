@@ -1,0 +1,2 @@
+//comment
+write +-hello world-+
